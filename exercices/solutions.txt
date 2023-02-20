@@ -1,0 +1,20 @@
+1- echo 'Hello World'
+2- mkdir new_dir
+3- rmdir new_dir
+4- cp sed.txt ../lorem-copy
+5- cp at.txt ../lorem-copy; cp at.txte ../lorem-copy; cp lorem.txt ../lorem-copy;
+6- cat sed.txt
+7- cat at.txt lorem.txt
+8- head -n 3 sed.txt
+9- tail -n 3 sed.txt
+10- echo "Homo homini lupus." > sed.txt
+11- tail -n 3 sed.txt
+12- sed -i 's/et/ET/g' at.txt
+13-whoami
+14- pwd
+15- ls *.txt
+16- wc -l sed.txt
+17- find / -name "lorem*" -type f | wc -l
+
+
+
